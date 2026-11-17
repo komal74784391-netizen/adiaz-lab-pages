@@ -1,2 +1,6 @@
 # adiaz-lab-pages
-Adaptive Systems Lab static site (publications archive)
+
+Static site for the Adaptive Systems Lab.
+
+- Publication entries: `_publications/`
+- The code button is rendered from each entry's `codeurl` front-matter field.

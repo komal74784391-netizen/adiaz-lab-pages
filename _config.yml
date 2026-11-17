@@ -1,0 +1,8 @@
+title: "Andrew Diaz — Adaptive Systems Lab"
+description: "Research on reliable learning systems"
+baseurl: ""
+url: "https://adiaz-lab.example"
+markdown: kramdown
+collections:
+  publications:
+    output: true
